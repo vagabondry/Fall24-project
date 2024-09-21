@@ -1,2 +1,2 @@
 # Fall24-project
-This project develops a Self-Improving Chatbot designed to engage in somewhat meaningful conversations with users via Telegram (expectedly). The bot uses Deep Learning models for language understanding and response generation, and leverages Reinforcement Learning for improvement based on user feedback. Over time, the chatbot hopefully refines its responses.
+This project aims to depelop a Self-Improving Chatbot designed to engage in somewhat meaningful and hopefully fanny conversations with users in groupchats expectedly in Telegram. The bot will use deep learning models for language understanding and response generation, and leverages reinforcement learning for improvement based on user feedback. Over time, the chatbot feasibly refines its responses.
