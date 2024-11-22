@@ -162,7 +162,7 @@ async def feedback_handler(update: Update, context):
 
         await query.edit_message_reply_markup(reply_markup=None)
 
-BOT_TOKEN = "7757297121:AAE-1Ny0XVNkJrwfsO1uoT7_WMJT-v3J-2E"
+BOT_TOKEN = "token"
 
 app = ApplicationBuilder().token(BOT_TOKEN).build()
 
